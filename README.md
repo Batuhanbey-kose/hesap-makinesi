@@ -1,0 +1,1 @@
+kodu calıstırdıgınız zaman sızden bır ıslem secmenızı ısteyecek islem sectıkten sonra da 3 tane sayı ısteyecek ve sonra gırdıgınız sayıların sectıgınız ıslemle hesaplamasını yapıp ekrana cıktıyı yazacaktır.
