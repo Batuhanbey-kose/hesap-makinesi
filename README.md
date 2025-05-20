@@ -60,7 +60,13 @@ Programı çalıştırdığınızda aşağıdaki işlem listesini göreceksiniz:
 
 - Python’a yeni başlayanlar için temel döngü, koşul ve hata yönetimi uygulamasıdır  
 - İleride GUI veya ek işlemlerle geliştirilebilir
+  
+---
 
+ ## 🤝 İletişim ve Katkıda Bulunma
+  * 🐛 Hata bildirimleri için [Issues](https://github.com/Batuhanbey-kose/hesap-makinesi/issues) sayfasını kullanın
+  * 💡 Yeni özellik önerileri için [Pull Request](https://github.com/Batuhanbey-kose/hesap-makinesi/pulls) gönderin
+  * 📧 İletişim: kosebatuhanbey@gmail.com
 ---
 
 <p align="center" style="font-size:small;">
